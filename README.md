@@ -1,0 +1,1 @@
+# VSCODE Templates // C:\Users\Manoloon\AppData\Roaming\Code\User\ProjectTemplates

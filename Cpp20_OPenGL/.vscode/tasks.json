@@ -15,7 +15,7 @@
                 "-I",
                 "E:\\Coding\\CppProjects\\CommonLibs\\glew\\include",
                 "-L",
-                "E:\\Coding\\CppProjects\\CommonLibs\\glew\\lib\\Release\\Win32",
+                "E:\\Coding\\CppProjects\\CommonLibs\\glew\\lib\\Release\\x64",
                 "-L",
                 "E:\\Coding\\CppProjects\\CommonLibs\\glfw\\lib-mingw-w64",
                 "-lglfw3dll",
